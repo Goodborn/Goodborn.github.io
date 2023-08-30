@@ -1,0 +1,70 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container h1 {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  text-align: center; /* Center the list items horizontally */
+}
+
+ul li {
+  display: block;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+
+ul li:last-child {
+  border-bottom: none;
+}
+
+.bruto {
+  color: #3498db;
+}
+
+.neto {
+  color: #27ae60;
+}
+
+.btn-group {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+.btn-group button {
+  padding: 5px 10px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-group input[type="number"] {
+  padding: 5px;
+  width: 60px;
+  text-align: center;
+}
+
+.btn-group select {
+  padding: 5px;
+}
+
+#resetAllSalaries {
+  margin-top: 5cm;
+  background-color: #e74c3c;
+}

@@ -1,0 +1,24 @@
+
+6ab -800€
+13ab -1000€5% of the total
+
+
+Add abzugat babo (me ore (sa pare osht ora))
+Add an option to remove the abchluss or reset the salary to default (600EUR)
+
+
+Sorry, change the taxation again, so it goes as following:
+
+
+
+
+
+1. 5% is taxed from the total of the Bruto salary (this is the pension fund where the company pays 5% and the worker pays the other 5%).
+
+2. After the pension fund taxation is done, take the bruto amount left and do the actual tax of the state which is based on the following table:
+- Loan from 0-80 € 0%
+- Loan from 80 to 250EUR is taxed 4%.
+- If it is more than 250EUR and up to 450EUR add the following taxation as well: 8%
+If the salary is  above 450EUR add the following taxation as well: 10%
+
+Show me the completed updated js code
